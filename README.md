@@ -1,8 +1,8 @@
 - Hi, I’m ****@tarynmiller****
--  I’m currently learning ****python, r, sql, tableau, Power BI, AI best practices, kaggle, bigquery****, and more
+-  I’m currently learning ****python, r, sql, tableau, power bI, ai best practices, kaggle, bigquery****, and more
 -  My passion data projects would be in women's healthcare, archaeological studies, machine learning patterns, and video game statstics 
 -  Science fiction author, certified archaeologist / obsessions include food and wine culture, social justice issues, and classic literature
--  You can reach me on Linkedin at ****www.linkedin.com/in/tarynmiller**** or find me on DataCamp
+-  You can reach me on Linkedin at ****www.linkedin.com/in/tarynmiller****, on  ****[DataCamp]([www.linkedin.com/in/tarynmiller****](https://www.datacamp.com/portfolio/ncwxjgvc)****, and on ****[kaggle](https://www.kaggle.com/tarynmiller)****
 
 
 <!---
